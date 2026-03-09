@@ -1,0 +1,2 @@
+# Magnetometer-Datenschutzerkl-rung
+Datenschutzerklärung Magnetometer
